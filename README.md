@@ -1,7 +1,7 @@
-## Innosson group landing practice project for bootstrap
+## Innosson group landing practice project for bootstrap for my trainees
 
 ## What is this project about
-This is a simple landing page practice project,for just learning how to use bootstrap classes.
+This is a simple landing page practice project,for just learning how to use bootstrap classes.This project is for my new trainees
 
 ### Tools Used
 1) Vscode(text editor)
